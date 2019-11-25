@@ -124,7 +124,7 @@ DATABASES = {
         'NAME': 'decide',
         'USER': 'decide',
         'PASSWORD': 'decide',
-        'HOST': 'postgres://aotrprytoijwdf:3b12ef9f9ec412a4201c12bbdaf14dd040d7c6f00c38e34073106535049f5069@ec2-107-21-226-44.compute-1.amazonaws.com:5432/d70opbdo5bfbch',
+        'HOST': 'localhost',
         'PORT': '5432',
     }
 }
